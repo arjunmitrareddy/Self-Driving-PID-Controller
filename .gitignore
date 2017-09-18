@@ -2,3 +2,8 @@
 build
 tags
 .editorconfig
+.idea
+src/.DS_Store
+src/PID Arjun Donthala.zip
+.DS_Store
+.idea/vcs.xml
